@@ -76,7 +76,7 @@
     "@fortawesome/fontawesome-free": "5.15.1",
     "@vue/server-test-utils": "1.1.1",
     "@vue/test-utils": "1.1.1",
-    "babel-loader": "8.2.1",
+    "babel-loader": "8.2.2",
     "babel-plugin-istanbul": "6.0.0",
     "chai": "4.2.0",
     "copy-webpack-plugin": "6.3.2",
